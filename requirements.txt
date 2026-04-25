@@ -1,0 +1,21 @@
+# Temel Arayüz ve Sunucu
+streamlit==1.32.0
+
+# Yapay Zeka ve Matematiksel Hesaplama (GPU Desteği İçin)
+torch==2.2.0
+torchvision==0.17.0
+numpy==1.26.4
+
+# 3D Dosya İşleme ve Matematik
+trimesh==4.1.8
+rembg==2.0.53
+PyMCubes==0.1.4
+
+# Grafik ve Rendering
+pyvista==0.43.3
+glcontext==2.5.0
+
+# Üretken AI Kütüphaneleri (HuggingFace üzerinden)
+transformers==4.38.1
+diffusers==0.26.3
+accelerate==0.27.2
